@@ -1,0 +1,196 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: white;
+
+}
+
+.th {
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    cursor: pointer;
+    top: 30px;
+}
+
+.jh {
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    top: 5px;
+    left: 60px;
+    cursor: pointer;
+
+}
+
+.jk {
+    position: relative;
+    left: 100px;
+    margin-top: 70px;
+}
+
+.ha {
+    font-size: 18px;
+    font-weight: 100;
+    position: relative;
+    left: 90px;
+    margin-top: 10px;
+}
+
+.btn {
+    width: 340px;
+    height: 30px;
+    position: relative;
+    left: 90px;
+    background-color: transparent;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.icn {
+    font-size: 18px;
+    color: rgb(32, 200, 32);
+    position: relative;
+    top: 3px;
+    left: -20px;
+}
+
+.p {
+    width: 150px;
+    height: 1.5px;
+    background-color: rgb(177, 153, 153);
+    margin-top: 40px;
+    position: relative;
+    left: 98px;
+}
+
+.p1 {
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    top: -15px;
+    left: 250px;
+    color: rgb(177, 153, 153);
+}
+
+.p2 {
+    width: 150px;
+    height: 1.5px;
+    background-color: rgb(177, 153, 153);
+    position: relative;
+    left: 265px;
+    top: -19px;
+}
+
+.email {
+    width: 320px;
+    height: 30px;
+    position: relative;
+    left: 98px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    overflow-y: auto;
+    padding: 0px 5px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.password{
+    width: 320px;
+    height: 30px;
+    position: relative;
+    left: 98px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    overflow-y: auto;
+    padding: 0px 5px;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.email input:focus~label,
+.password input:valid~label{
+    position: relative;
+    top: -20px;
+    transition: .5s;
+    font-size: 14px;
+}
+.in{
+    width: 17px;
+    height: 17px;
+    position: relative;
+  
+    margin-top: 30px;
+    left: 100px;
+}
+.ij{
+    font-size: 15px;
+font-weight: 200;
+position: relative;
+top: -20px;
+left: 130px;
+}
+.a1{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    top: -47px;
+    left: 300px;
+}
+.btn1 {
+    width: 340px;
+    height: 35px;
+    position: relative;
+    left: 90px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    transition: .5s;
+    position: relative;
+    left: -40px;
+}
+.btn1:hover{
+    border-color: black;
+    color: black;
+    transition: .5s;
+    background-color: transparent;
+}
+.ka{
+    margin-top: 20px;
+    position: relative;
+    font-size: 15px;
+    font-weight: 200;
+    left: 100px;
+}
+.a{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: -20px;
+    left: 270px;
+}
+
+.img{
+    width: 527px;
+    height: 546px;
+    margin-top: -600px;
+    position: relative;
+    left: 350px;
+    top: 4px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
